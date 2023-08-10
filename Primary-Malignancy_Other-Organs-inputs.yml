@@ -1,0 +1,303 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_other-organs-stage---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_other-organs-tumour---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_other-organs-resulting---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_other-organs-duodenum---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_other-organs-neoplasm---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_other-organs-overlap---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_other-organs-trunkunspecified---primary.py
+inputModule9:
+  class: File
+  path: python/intestinal-primary-malignancy_other-organs---primary.py
+inputModule10:
+  class: File
+  path: python/intrahepatic-primary-malignancy_other-organs---primary.py
+inputModule11:
+  class: File
+  path: python/primary-malignancy_other-organs-gallbladder---primary.py
+inputModule12:
+  class: File
+  path: python/primary-malignancy_other-organs-carcinoma---primary.py
+inputModule13:
+  class: File
+  path: python/primary-malignancy_other-organs-retroperitoneum---primary.py
+inputModule14:
+  class: File
+  path: python/primary-malignancy_other-organs-tissue---primary.py
+inputModule15:
+  class: File
+  path: python/parietal-primary-malignancy_other-organs---primary.py
+inputModule16:
+  class: File
+  path: python/primary-malignancy_other-organs-pelvi---primary.py
+inputModule17:
+  class: File
+  path: python/primary-malignancy_other-organs-neoplsm---primary.py
+inputModule18:
+  class: File
+  path: python/gastrointestinal-primary-malignancy_other-organs---primary.py
+inputModule19:
+  class: File
+  path: python/primary-malignancy_other-organs-spleen---primary.py
+inputModule20:
+  class: File
+  path: python/digestive-primary-malignancy_other-organs---primary.py
+inputModule21:
+  class: File
+  path: python/primary-malignancy_other-organs-cavity---primary.py
+inputModule22:
+  class: File
+  path: python/primary-malignancy_other-organs-cartilage---primary.py
+inputModule23:
+  class: File
+  path: python/primary-malignancy_other-organs-nasal---primary.py
+inputModule24:
+  class: File
+  path: python/primary-malignancy_other-organs-auditory---primary.py
+inputModule25:
+  class: File
+  path: python/tympanic-primary-malignancy_other-organs---primary.py
+inputModule26:
+  class: File
+  path: python/mastoid-primary-malignancy_other-organs---primary.py
+inputModule27:
+  class: File
+  path: python/primary-malignancy_other-organs-axilla---primary.py
+inputModule28:
+  class: File
+  path: python/primary-malignancy_other-organs-sinus---primary.py
+inputModule29:
+  class: File
+  path: python/primary-malignancy_other-organs-accessory---primary.py
+inputModule30:
+  class: File
+  path: python/primary-malignancy_other-organs-larynx---primary.py
+inputModule31:
+  class: File
+  path: python/laryngeal-primary-malignancy_other-organs---primary.py
+inputModule32:
+  class: File
+  path: python/thyroid-primary-malignancy_other-organs---primary.py
+inputModule33:
+  class: File
+  path: python/primary-malignancy_other-organs-pleura---primary.py
+inputModule34:
+  class: File
+  path: python/primary-malignancy_other-organs-thymu---primary.py
+inputModule35:
+  class: File
+  path: python/primary-malignancy_other-organs-heart---primary.py
+inputModule36:
+  class: File
+  path: python/primary-malignancy_other-organs-mediastinum---primary.py
+inputModule37:
+  class: File
+  path: python/primary-malignancy_other-organs-respiratory---primary.py
+inputModule38:
+  class: File
+  path: python/primary-malignancy_other-organs-spine---primary.py
+inputModule39:
+  class: File
+  path: python/primary-malignancy_other-organs-shoulder---primary.py
+inputModule40:
+  class: File
+  path: python/upper-primary-malignancy_other-organs---primary.py
+inputModule41:
+  class: File
+  path: python/connective-primary-malignancy_other-organs---primary.py
+inputModule42:
+  class: File
+  path: python/primary-malignancy_other-organs-thorax---primary.py
+inputModule43:
+  class: File
+  path: python/primary-malignancy_other-organs-abdoman---primary.py
+inputModule44:
+  class: File
+  path: python/primary-malignancy_other-organs-kaposis---primary.py
+inputModule45:
+  class: File
+  path: python/primary-malignancy_other-organs-uterine---primary.py
+inputModule46:
+  class: File
+  path: python/primary-malignancy_other-organs-vagina---primary.py
+inputModule47:
+  class: File
+  path: python/primary-malignancy_other-organs-majora---primary.py
+inputModule48:
+  class: File
+  path: python/primary-malignancy_other-organs-gland---primary.py
+inputModule49:
+  class: File
+  path: python/primary-malignancy_other-organs-labia---primary.py
+inputModule50:
+  class: File
+  path: python/primary-malignancy_other-organs-vulva---primary.py
+inputModule51:
+  class: File
+  path: python/female-primary-malignancy_other-organs---primary.py
+inputModule52:
+  class: File
+  path: python/primary-malignancy_other-organs-penis---primary.py
+inputModule53:
+  class: File
+  path: python/urinary-primary-malignancy_other-organs---primary.py
+inputModule54:
+  class: File
+  path: python/primary-malignancy_other-organs-kidney---primary.py
+inputModule55:
+  class: File
+  path: python/primary-malignancy_other-organs-eyeball---primary.py
+inputModule56:
+  class: File
+  path: python/primary-malignancy_other-organs-orbit---primary.py
+inputModule57:
+  class: File
+  path: python/lacrimal-primary-malignancy_other-organs---primary.py
+inputModule58:
+  class: File
+  path: python/primary-malignancy_other-organs-conjunctiva---primary.py
+inputModule59:
+  class: File
+  path: python/primary-malignancy_other-organs-cornea---primary.py
+inputModule60:
+  class: File
+  path: python/primary-malignancy_other-organs-retina---primary.py
+inputModule61:
+  class: File
+  path: python/choroid-primary-malignancy_other-organs---primary.py
+inputModule62:
+  class: File
+  path: python/primary-malignancy_other-organs-periph---primary.py
+inputModule63:
+  class: File
+  path: python/lower-primary-malignancy_other-organs---primary.py
+inputModule64:
+  class: File
+  path: python/nervous-primary-malignancy_other-organs---primary.py
+inputModule65:
+  class: File
+  path: python/adrenal-primary-malignancy_other-organs---primary.py
+inputModule66:
+  class: File
+  path: python/primary-malignancy_other-organs-phaeochromocytoma---primary.py
+inputModule67:
+  class: File
+  path: python/primary-malignancy_other-organs-unspec---primary.py
+inputModule68:
+  class: File
+  path: python/intrathoracic-primary-malignancy_other-organs---primary.py
+inputModule69:
+  class: File
+  path: python/inguinal-primary-malignancy_other-organs---primary.py
+inputModule70:
+  class: File
+  path: python/primary-malignancy_other-organs-region---primary.py
+inputModule71:
+  class: File
+  path: python/multiple-primary-malignancy_other-organs---primary.py
+inputModule72:
+  class: File
+  path: python/unknown-primary-malignancy_other-organs---primary.py
+inputModule73:
+  class: File
+  path: python/primary-malignancy_other-organs-histiocytosis---primary.py
+inputModule74:
+  class: File
+  path: python/lymphoidhaematopoietic-primary-malignancy_other-organs---primary.py
+inputModule75:
+  class: File
+  path: python/primary-malignancy_other-organs-letterersiwe---primary.py
+inputModule76:
+  class: File
+  path: python/primary-malignancy_other-organs-lymphoma---primary.py
+inputModule77:
+  class: File
+  path: python/immunoproliferative-primary-malignancy_other-organs---primary.py
+inputModule78:
+  class: File
+  path: python/primary-malignancy_other-organs-sarcoma---primary.py
+inputModule79:
+  class: File
+  path: python/primary-malignancy_other-organs---primary.py
+inputModule80:
+  class: File
+  path: python/primary-malignancy_other-organs-[m]aesthesioneuroblastoma---primary.py
+inputModule81:
+  class: File
+  path: python/primary-malignancy_other-organs-molfactory---primary.py
+inputModule82:
+  class: File
+  path: python/other---primary.py
+inputModule83:
+  class: File
+  path: python/possible-primary-malignancy_other-organs---primary.py
+inputModule84:
+  class: File
+  path: python/intestinal-primary-malignancy_other-organs---secondary.py
+inputModule85:
+  class: File
+  path: python/primary-malignancy_other-organs-neoplasm---secondary.py
+inputModule86:
+  class: File
+  path: python/primary-malignancy_other-organs-tract---secondary.py
+inputModule87:
+  class: File
+  path: python/digestive-primary-malignancy_other-organs---secondary.py
+inputModule88:
+  class: File
+  path: python/primary-malignancy_other-organs-heart---secondary.py
+inputModule89:
+  class: File
+  path: python/primary-malignancy_other-organs-mediastinum---secondary.py
+inputModule90:
+  class: File
+  path: python/primary-malignancy_other-organs-pleura---secondary.py
+inputModule91:
+  class: File
+  path: python/primary-malignancy_other-organs-respiratory---secondary.py
+inputModule92:
+  class: File
+  path: python/primary-malignancy_other-organs---secondary.py
+inputModule93:
+  class: File
+  path: python/primary-malignancy_other-organs-system---secondary.py
+inputModule94:
+  class: File
+  path: python/primary-malignancy_other-organs-tissue---secondary.py
+inputModule95:
+  class: File
+  path: python/genital-primary-malignancy_other-organs---secondary.py
+inputModule96:
+  class: File
+  path: python/primary-malignancy_other-organs-unspecified---secondary.py
+inputModule97:
+  class: File
+  path: python/primary-malignancy_other-organs-gland---secondary.py
+inputModule98:
+  class: File
+  path: python/primary-malignancy_other-organs-illdefined---secondary.py
+inputModule99:
+  class: File
+  path: python/lymphoid-primary-malignancy_other-organs---secondary.py
+inputModule100:
+  class: File
+  path: python/immunoproliferative-primary-malignancy_other-organs---secondary.py
+inputModule101:
+  class: File
+  path: python/output-cases.py
